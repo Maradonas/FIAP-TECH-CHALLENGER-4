@@ -345,5 +345,5 @@ else:
     # RODAPÉ
     # ---------------------------------------------------------
     st.markdown("---")
-    st.caption("© Dashboard desenvolvido para FIAP – Tech Challenge por Diego Maradini.")
+    st.caption("© Dashboard desenvolvido para FIAP – Tech Challenge fase 4")
 
